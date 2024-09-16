@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adiar\\OneDrive\\Desktop\\API-AngularProject\\API\\CodepPulse.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1FE346-FE31-4C03-8244-A7287AB4D1EF}|CodepPulse.API\\CodepPulse.API.csproj|c:\\users\\adiar\\onedrive\\desktop\\api-angularproject\\api\\codeppulse.api\\codeppulse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1FE346-FE31-4C03-8244-A7287AB4D1EF}|CodepPulse.API\\CodepPulse.API.csproj|solutionrelative:codeppulse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1FE346-FE31-4C03-8244-A7287AB4D1EF}|CodepPulse.API\\CodepPulse.API.csproj|c:\\users\\adiar\\onedrive\\desktop\\api-angularproject\\api\\codeppulse.api\\codeppulse.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1FE346-FE31-4C03-8244-A7287AB4D1EF}|CodepPulse.API\\CodepPulse.API.csproj|solutionrelative:codeppulse.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1FE346-FE31-4C03-8244-A7287AB4D1EF}|CodepPulse.API\\CodepPulse.API.csproj|c:\\users\\adiar\\onedrive\\desktop\\api-angularproject\\api\\codeppulse.api\\codeppulse.api\\repositories\\interface\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1FE346-FE31-4C03-8244-A7287AB4D1EF}|CodepPulse.API\\CodepPulse.API.csproj|solutionrelative:codeppulse.api\\repositories\\interface\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1FE346-FE31-4C03-8244-A7287AB4D1EF}|CodepPulse.API\\CodepPulse.API.csproj|c:\\users\\adiar\\onedrive\\desktop\\api-angularproject\\api\\codeppulse.api\\codeppulse.api\\repositories\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1FE346-FE31-4C03-8244-A7287AB4D1EF}|CodepPulse.API\\CodepPulse.API.csproj|solutionrelative:codeppulse.api\\repositories\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1FE346-FE31-4C03-8244-A7287AB4D1EF}|CodepPulse.API\\CodepPulse.API.csproj|c:\\users\\adiar\\onedrive\\desktop\\api-angularproject\\api\\codeppulse.api\\codeppulse.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B1FE346-FE31-4C03-8244-A7287AB4D1EF}|CodepPulse.API\\CodepPulse.API.csproj|solutionrelative:codeppulse.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1FE346-FE31-4C03-8244-A7287AB4D1EF}|CodepPulse.API\\CodepPulse.API.csproj|c:\\users\\adiar\\onedrive\\desktop\\api-angularproject\\api\\codeppulse.api\\codeppulse.api\\models\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1FE346-FE31-4C03-8244-A7287AB4D1EF}|CodepPulse.API\\CodepPulse.API.csproj|solutionrelative:codeppulse.api\\models\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1FE346-FE31-4C03-8244-A7287AB4D1EF}|CodepPulse.API\\CodepPulse.API.csproj|c:\\users\\adiar\\onedrive\\desktop\\api-angularproject\\api\\codeppulse.api\\codeppulse.api\\models\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1FE346-FE31-4C03-8244-A7287AB4D1EF}|CodepPulse.API\\CodepPulse.API.csproj|solutionrelative:codeppulse.api\\models\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1FE346-FE31-4C03-8244-A7287AB4D1EF}|CodepPulse.API\\CodepPulse.API.csproj|c:\\users\\adiar\\onedrive\\desktop\\api-angularproject\\api\\codeppulse.api\\codeppulse.api\\models\\dto\\createcategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1FE346-FE31-4C03-8244-A7287AB4D1EF}|CodepPulse.API\\CodepPulse.API.csproj|solutionrelative:codeppulse.api\\models\\dto\\createcategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1FE346-FE31-4C03-8244-A7287AB4D1EF}|CodepPulse.API\\CodepPulse.API.csproj|c:\\users\\adiar\\onedrive\\desktop\\api-angularproject\\api\\codeppulse.api\\codeppulse.api\\models\\domain\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1FE346-FE31-4C03-8244-A7287AB4D1EF}|CodepPulse.API\\CodepPulse.API.csproj|solutionrelative:codeppulse.api\\models\\domain\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1FE346-FE31-4C03-8244-A7287AB4D1EF}|CodepPulse.API\\CodepPulse.API.csproj|c:\\users\\adiar\\onedrive\\desktop\\api-angularproject\\api\\codeppulse.api\\codeppulse.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1FE346-FE31-4C03-8244-A7287AB4D1EF}|CodepPulse.API\\CodepPulse.API.csproj|solutionrelative:codeppulse.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1FE346-FE31-4C03-8244-A7287AB4D1EF}|CodepPulse.API\\CodepPulse.API.csproj|c:\\users\\adiar\\onedrive\\desktop\\api-angularproject\\api\\codeppulse.api\\codeppulse.api\\migrations\\20240705063438_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1FE346-FE31-4C03-8244-A7287AB4D1EF}|CodepPulse.API\\CodepPulse.API.csproj|solutionrelative:codeppulse.api\\migrations\\20240705063438_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1FE346-FE31-4C03-8244-A7287AB4D1EF}|CodepPulse.API\\CodepPulse.API.csproj|c:\\users\\adiar\\onedrive\\desktop\\api-angularproject\\api\\codeppulse.api\\codeppulse.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B1FE346-FE31-4C03-8244-A7287AB4D1EF}|CodepPulse.API\\CodepPulse.API.csproj|solutionrelative:codeppulse.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1FE346-FE31-4C03-8244-A7287AB4D1EF}|CodepPulse.API\\CodepPulse.API.csproj|c:\\users\\adiar\\onedrive\\desktop\\api-angularproject\\api\\codeppulse.api\\codeppulse.api\\codeppulse.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6B1FE346-FE31-4C03-8244-A7287AB4D1EF}|CodepPulse.API\\CodepPulse.API.csproj|solutionrelative:codeppulse.api\\codeppulse.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1FE346-FE31-4C03-8244-A7287AB4D1EF}|CodepPulse.API\\CodepPulse.API.csproj|c:\\users\\adiar\\onedrive\\desktop\\api-angularproject\\api\\codeppulse.api\\codeppulse.api\\codeppulse.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6B1FE346-FE31-4C03-8244-A7287AB4D1EF}|CodepPulse.API\\CodepPulse.API.csproj|solutionrelative:codeppulse.api\\codeppulse.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adiar\\OneDrive\\Desktop\\API-AngularProject\\API\\CodepPulse.API\\CodepPulse.API\\Repositories\\Interface\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "CodepPulse.API\\Repositories\\Interface\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\adiar\\OneDrive\\Desktop\\API-AngularProject\\API\\CodepPulse.API\\CodepPulse.API\\Repositories\\Interface\\CategoryRepository.cs",
+              "RelativeToolTip": "CodepPulse.API\\Repositories\\Interface\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T08:02:06.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\adiar\\OneDrive\\Desktop\\API-AngularProject\\API\\CodepPulse.API\\CodepPulse.API\\Repositories\\Interface\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "CodepPulse.API\\Repositories\\Interface\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\adiar\\OneDrive\\Desktop\\API-AngularProject\\API\\CodepPulse.API\\CodepPulse.API\\Repositories\\Interface\\ICategoryRepository.cs",
+              "RelativeToolTip": "CodepPulse.API\\Repositories\\Interface\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T07:59:12.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\adiar\\OneDrive\\Desktop\\API-AngularProject\\API\\CodepPulse.API\\CodepPulse.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "CodepPulse.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\adiar\\OneDrive\\Desktop\\API-AngularProject\\API\\CodepPulse.API\\CodepPulse.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "CodepPulse.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T06:46:31.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\adiar\\OneDrive\\Desktop\\API-AngularProject\\API\\CodepPulse.API\\CodepPulse.API\\Models\\Domain\\Category.cs",
+              "RelativeDocumentMoniker": "CodepPulse.API\\Models\\Domain\\Category.cs",
+              "ToolTip": "C:\\Users\\adiar\\OneDrive\\Desktop\\API-AngularProject\\API\\CodepPulse.API\\CodepPulse.API\\Models\\Domain\\Category.cs",
+              "RelativeToolTip": "CodepPulse.API\\Models\\Domain\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:40:03.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adiar\\OneDrive\\Desktop\\API-AngularProject\\API\\CodepPulse.API\\CodepPulse.API\\Program.cs",
+              "RelativeDocumentMoniker": "CodepPulse.API\\Program.cs",
+              "ToolTip": "C:\\Users\\adiar\\OneDrive\\Desktop\\API-AngularProject\\API\\CodepPulse.API\\CodepPulse.API\\Program.cs",
+              "RelativeToolTip": "CodepPulse.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T06:27:16.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\adiar\\OneDrive\\Desktop\\API-AngularProject\\API\\CodepPulse.API\\CodepPulse.API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CodepPulse.API\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\adiar\\OneDrive\\Desktop\\API-AngularProject\\API\\CodepPulse.API\\CodepPulse.API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CodepPulse.API\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:46:02.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\adiar\\OneDrive\\Desktop\\API-AngularProject\\API\\CodepPulse.API\\CodepPulse.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CodepPulse.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\adiar\\OneDrive\\Desktop\\API-AngularProject\\API\\CodepPulse.API\\CodepPulse.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CodepPulse.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T17:32:11.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateCategoryRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\adiar\\OneDrive\\Desktop\\API-AngularProject\\API\\CodepPulse.API\\CodepPulse.API\\Models\\DTO\\CreateCategoryRequestDto.cs",
+              "RelativeDocumentMoniker": "CodepPulse.API\\Models\\DTO\\CreateCategoryRequestDto.cs",
+              "ToolTip": "C:\\Users\\adiar\\OneDrive\\Desktop\\API-AngularProject\\API\\CodepPulse.API\\CodepPulse.API\\Models\\DTO\\CreateCategoryRequestDto.cs",
+              "RelativeToolTip": "CodepPulse.API\\Models\\DTO\\CreateCategoryRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T06:54:29.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\adiar\\OneDrive\\Desktop\\API-AngularProject\\API\\CodepPulse.API\\CodepPulse.API\\Models\\DTO\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "CodepPulse.API\\Models\\DTO\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\adiar\\OneDrive\\Desktop\\API-AngularProject\\API\\CodepPulse.API\\CodepPulse.API\\Models\\DTO\\CategoryDto.cs",
+              "RelativeToolTip": "CodepPulse.API\\Models\\DTO\\CategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T07:06:26.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240705063438_Initial Migration.cs",
+              "DocumentMoniker": "C:\\Users\\adiar\\OneDrive\\Desktop\\API-AngularProject\\API\\CodepPulse.API\\CodepPulse.API\\Migrations\\20240705063438_Initial Migration.cs",
+              "RelativeDocumentMoniker": "CodepPulse.API\\Migrations\\20240705063438_Initial Migration.cs",
+              "ToolTip": "C:\\Users\\adiar\\OneDrive\\Desktop\\API-AngularProject\\API\\CodepPulse.API\\CodepPulse.API\\Migrations\\20240705063438_Initial Migration.cs",
+              "RelativeToolTip": "CodepPulse.API\\Migrations\\20240705063438_Initial Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T06:34:39.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlogPost.cs",
+              "DocumentMoniker": "C:\\Users\\adiar\\OneDrive\\Desktop\\API-AngularProject\\API\\CodepPulse.API\\CodepPulse.API\\Models\\Domain\\BlogPost.cs",
+              "RelativeDocumentMoniker": "CodepPulse.API\\Models\\Domain\\BlogPost.cs",
+              "ToolTip": "C:\\Users\\adiar\\OneDrive\\Desktop\\API-AngularProject\\API\\CodepPulse.API\\CodepPulse.API\\Models\\Domain\\BlogPost.cs",
+              "RelativeToolTip": "CodepPulse.API\\Models\\Domain\\BlogPost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:35:43.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\adiar\\OneDrive\\Desktop\\API-AngularProject\\API\\CodepPulse.API\\CodepPulse.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CodepPulse.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\adiar\\OneDrive\\Desktop\\API-AngularProject\\API\\CodepPulse.API\\CodepPulse.API\\appsettings.json",
+              "RelativeToolTip": "CodepPulse.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-05T05:03:47.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CodepPulse.API.http",
+              "DocumentMoniker": "C:\\Users\\adiar\\OneDrive\\Desktop\\API-AngularProject\\API\\CodepPulse.API\\CodepPulse.API\\CodepPulse.API.http",
+              "RelativeDocumentMoniker": "CodepPulse.API\\CodepPulse.API.http",
+              "ToolTip": "C:\\Users\\adiar\\OneDrive\\Desktop\\API-AngularProject\\API\\CodepPulse.API\\CodepPulse.API\\CodepPulse.API.http",
+              "RelativeToolTip": "CodepPulse.API\\CodepPulse.API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-04T17:30:27.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CodepPulse.API",
+              "DocumentMoniker": "C:\\Users\\adiar\\OneDrive\\Desktop\\API-AngularProject\\API\\CodepPulse.API\\CodepPulse.API\\CodepPulse.API.csproj",
+              "RelativeDocumentMoniker": "CodepPulse.API\\CodepPulse.API.csproj",
+              "ToolTip": "C:\\Users\\adiar\\OneDrive\\Desktop\\API-AngularProject\\API\\CodepPulse.API\\CodepPulse.API\\CodepPulse.API.csproj",
+              "RelativeToolTip": "CodepPulse.API\\CodepPulse.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-04T17:31:47.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
